@@ -1,0 +1,153 @@
+.form1{
+    max-width: 1024px;
+    background-color: rgb(95, 170, 255);
+    color: white;
+    margin-bottom: 30px;
+}
+
+.text1{
+    display: inline-block;
+    width: 350px;
+    margin-top: 3px;
+}
+
+.start_date1{
+    width: 200px;
+    height: 40px;
+    margin-right: 15px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.end_date1{
+    width: 200px;
+    height: 40px;
+    margin-right: 15px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.button1{
+    width: 220px;
+    height: 40px;
+    font-size: large;
+    background-color: rgb(255, 174, 0);
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    letter-spacing: 5px;
+}
+
+/* --------------------Form 2------------------------ */
+.form2{
+    max-width: 800px;
+    background-color: rgb(95, 170, 255);
+    color: white;
+    margin-bottom: 30px;
+}
+
+.start_date2{
+    width: 200px;
+    height: 40px;
+    margin-right: 15px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.end_date2{
+    width: 200px;
+    height: 40px;
+    margin-right: 20px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.button2{
+    width: 310px;
+    height: 40px;
+    font-size: large;
+    background-color: rgb(255, 174, 0);
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    letter-spacing: 5px;
+}
+
+/* --------------------Form 3------------------------ */
+.form3{
+    max-width: 500px;
+    background-color: rgb(95, 170, 255);
+    color: white;
+    margin-bottom: 30px;
+}
+
+.start_date3{
+    width: 230px;
+    height: 40px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.end_date3{
+    width: 230px;
+    height: 40px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.button3{
+    width: 485px;
+    height: 40px;
+    font-size: large;
+    background-color: rgb(255, 174, 0);
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    letter-spacing: 5px;
+    margin-bottom: 5px;
+}
+
+/* --------------------Form 4------------------------ */
+.form4{
+    max-width: 270px;
+    background-color: rgb(95, 170, 255);
+    color: white;
+}
+
+.start_date4{
+    width: 260px;
+    height: 40px;
+    margin-bottom: 25px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.end_date4{
+    width: 260px;
+    height: 40px;
+    margin-bottom: 25px;
+    font-size: large;
+    border: 0;
+    border-radius: 3px;
+}
+
+.button4{
+    width: 260px;
+    height: 40px;
+    font-size: large;
+    background-color: rgb(255, 174, 0);
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    letter-spacing: 5px;
+    margin-bottom: 5px;
+}
